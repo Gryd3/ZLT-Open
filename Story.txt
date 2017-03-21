@@ -2,3 +2,15 @@ We are at heart, enthusiasts for technology whom operate one of what we hope to 
 We host servers, both physical and virtual with a focus on virtual due to the increased resiliency and additional benefits of a virtualized platform. Automatic fail-over and live migrations ensure that your server keeps running, even if the hardware it was initially installed on goes up in smoke with very little to no external indication there was ever a problem. Our machines are designed to handle demanding loads, but are available for simple tasks. We are flexible and open to share our details and experiences so you know exactly what service you are getting. We can't say the same for our competators if you are curious about the rate of contention for your vCPU.
 This makes us a great match for media companies and video game companies based on our big pipes and performance oriented goals. As we grow, we will become increasingly more resilient as additional datacenter sites are brought online, and will be able to reach further with our fiber to provide direct network & internet services to those who may not be on the initial fiber foot-print. Regardless of personal access to fiber, anyone around the world can host services in our facilities and take advantage of our offerings.
 Our current model outlines the construction and operation of additional datacenters attached to multi-unit dwellings. Waste heat from our operations can be provided throughout the building in the cold winter months and the residents get to enjoy many of the benefits of the datacenter and attached office spaces. Real high-speed internet access, enhanced security, and proximity to office/work spaces.
+- Carefully planned and transparent infrastructure with the latest in high capacity networking equipment
+- Limited options available - we understand what we provide and our services are organized around uptime and support
+- Unique mix of IT architecture and physical architecture, providing new layers of security and opportunity
+- Available dark fiber to independent peering points and client access, economically provided through various contractors and on a substantial fiber network in Vancouver that we own
+- Network instrumentation, showing peer performance and overall network health
+- Geographic certainty of data storage
+- Stability of a wholly owned data center, built by us from the ground up (literally)
+- step free elevator access to the data center
+- dedicated generator backed, full facility UPS operated in N+1 or 2N mode, redundant a/c modes, fully diverse fiber routes,
+- complete facility firewall
+- Radio links available from our tower to a large area in and around Granville Island and downtown Vancouver
+- blah blah blah - words about future goals, digital philosophy, etc - how much we want to give away is debatable
